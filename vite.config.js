@@ -13,16 +13,13 @@ export default defineConfig({
         "run-at": "document-start",
         name: "juejin-book-exporter",
         namespace: "http://tampermonkey.net/",
-        version: "0.0.1"
+        version: "0.0.1",
+        description: "export juejin book",
+        license: "MIT"
       },
     }),
   ],
   build: {
     minify: true
-    // rollupOptions: {
-    //   output: {
-    //     format: "iife"
-    //   }
-    // }
   }
 });
