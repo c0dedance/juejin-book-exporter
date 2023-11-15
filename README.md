@@ -3,7 +3,8 @@
 
 # 使用
 安装：https://greasyfork.org/zh-CN/scripts/478452-juejin-book-exporter
-<img width="1608" alt="image" src="https://github.com/c0dedance/juejin-book-exporter/assets/38075730/099ebce7-c63e-4042-855d-575b4eb16227">
+
+![](https://img.qkeep.cn/imgs/202311151507799.png)
 
 # 免责声明
 该脚本仅用于个人使用，严禁传播内容或用于商业目的。
